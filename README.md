@@ -1,2 +1,2 @@
 # DocumentDistance
-Algorithm that detects the ratio similarity between 2 documnets.
+Algorithm that detects the similarity ratio between 2 documnets.
