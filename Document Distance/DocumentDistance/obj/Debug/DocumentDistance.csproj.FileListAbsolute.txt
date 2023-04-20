@@ -1,0 +1,20 @@
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Collge\6th Term\Algo\Competitions\Warm-up\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Collge\6th Term\Algo\Competitions\Warm-up [Bonus]\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
